@@ -1,5 +1,5 @@
 ---
-title: Onboarding Azure DevOps
+title: Onboarding to Azure DevOps
 date: 2024-01-26 15:30 +0530
 categories: [Azure DevOps, DevOps, Azure]
 tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
@@ -7,11 +7,11 @@ tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 
 ## Creating Azure DevOps Free Account
 
-1. Navigate to http://dev.azure.com/ or https://azure.microsoft.com/en-us/products/devops
+1. Navigate to [http://dev.azure.com/](http://dev.azure.com/) or [https://azure.microsoft.com/en-us/products/devops](https://azure.microsoft.com/en-us/products/devops).
 
     ![Azure_DevOps_Start_free][Azure_DevOps_Start_free]
 
-2. Sign in with your Microsoft Live Account or Github Account. If you don't have an account with either of these sources, you can [Create a Microsoft Account][Create MS Account] or [Create a GitHub Account][Create a GitHub Account]
+2. Sign in with your Microsoft Live Account or Github Account. If you don't have an account with either of these sources, you can [Create a Microsoft Account][Create MS Account] or [Create a GitHub Account][Create a GitHub Account].
 
     ![Azure-DevOps-Sign-in][Azure-DevOps-Sign-in]
 
@@ -23,7 +23,7 @@ tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 
 ## Creating an Azure DevOps Organization
 
-4. Provide the name of Azure DevOps Organization and region for projects to be hosted. Provide captcha and then click `Continue`.
+- Provide the name of Azure DevOps Organization and region for projects to be hosted. Provide captcha and then click `Continue`.
 
     ![Azure-DevOps-Organization][Azure-DevOps-Organization]
 
@@ -31,11 +31,11 @@ tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 
 ## Creating an Azure Devops Project in an Organization
 
-5. Create a `Project` in the `Organization` you created by providing project name. Here it's `datosmic-project1` project in `datosmic` organization.   
+- Create a `Project` in the `Organization` you created by providing project name. Here it's `datosmic-project1` project in `datosmic` organization.   
 
     ![ADO-Project-Creation2][ADO-Project-Creation2]
 
-> ![NOTE]  
+> [!NOTE] 
 > **Congratulations!!! You have successfully created a new organization and a project in an Organization.**
 
 Here is how the welcome screen looks like after creation of a project.  
@@ -43,8 +43,14 @@ Here is how the welcome screen looks like after creation of a project.
 ![ADO-Project][ADO-Project]
 
 If you want to create a project in an existing organization:
-1. Navigate to organization page. Here is the link on how it looks like: `https://dev.azure.com/<<Organization Name>>/`
-2. Click on `New Project` and provide the `Project Name` , `Description`, `Visibility` and Optionally `Version Control` & `Work Item Process` then click on `Create`
+1. Navigate to Azure DevOps Organization main page: `https://dev.azure.com/<<Organization Name>>/`
+2. Click on `New Project` and provide
+    1. `Project Name` 
+    2. `Description` 
+    3. `Visibility` 
+    4. `Version Control` (Optional)
+    5. `Work Item Process` (Optional)
+    6. then click on `Create` to create a new project
 
     ![ADO-Project2][ADO-Project2]
 
