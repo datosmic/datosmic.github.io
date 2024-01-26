@@ -1,8 +1,8 @@
 ---
-title: PowerShell Basics
+title: PowerShell Overview
 date: 2024-01-20 19:30 +0530
-categories: [PowerShell]
-tags: [PowerShell, scripting, shell, Windows PowerShell, PowerShell Core]
+categories: [PowerShell, PowerShell Tutorial]
+tags: [PowerShell, scripting, shell, Windows PowerShell, PowerShell Core, PowerShell Tutorial]
 ---
 
 ## Introduction
