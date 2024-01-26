@@ -7,7 +7,7 @@ tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 
 ## Creating Azure DevOps Free Account
 
-1. Navigate to [http://dev.azure.com/](http://dev.azure.com/) or [https://azure.microsoft.com/en-us/products/devops](https://azure.microsoft.com/en-us/products/devops).
+1. Navigate to [https://dev.azure.com/](https://dev.azure.com/) or [https://azure.microsoft.com/en-us/products/devops](https://azure.microsoft.com/en-us/products/devops).
 
     ![Azure_DevOps_Start_free][Azure_DevOps_Start_free]
 
