@@ -1,7 +1,7 @@
 ---
 title: Onboarding to Azure DevOps
 date: 2024-01-26 15:30 +0530
-categories: [Azure DevOps, DevOps, Azure]
+categories: [DevOps, Azure DevOps]
 tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 ---
 
@@ -35,8 +35,8 @@ tags: [Azure DevOps, Azure, DevOps, Free Azure DevOps Account]
 
     ![ADO-Project-Creation2][ADO-Project-Creation2]
 
-> [!NOTE] 
 > **Congratulations!!! You have successfully created a new organization and a project in an Organization.**
+{: .prompt-tip }
 
 Here is how the welcome screen looks like after creation of a project.  
 
