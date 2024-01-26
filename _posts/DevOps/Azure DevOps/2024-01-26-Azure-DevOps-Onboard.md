@@ -42,7 +42,7 @@ Here is how the welcome screen looks like after creation of a project.
 
 ![ADO-Project][ADO-Project]
 
-If you want to create a project in an existing organization:
+To create a project in an existing organization:
 1. Navigate to Azure DevOps Organization main page: `https://dev.azure.com/<<Organization Name>>/`
 2. Click on `New Project` and provide
     1. `Project Name` 

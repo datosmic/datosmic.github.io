@@ -28,7 +28,7 @@ There are 2 types of PowerShell versions which can be present in a system. `vers
 
 #### PowerShell Core
 
-PowerShell Core is .NET Core version and platform independent. To run PowerShell Core Edition, you need to first [install PowerShell Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4) in your system. Once its installed in the system then 
+PowerShell Core is .NET Core version and platform independent. To run PowerShell Core Edition, we need to first [install PowerShell Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4) in our system. Once its installed in the system then 
 
 1. To Open, Search for `PowerShell` in Windows Search   
 
@@ -46,7 +46,7 @@ If you have already installed [Windows Terminal](https://github.com/microsoft/te
 
     ![Windows-Terminal-Search-Win11][Windows-Terminal-Search-Win11]
 
-2. You can select the PowerShell Edition directly you want to open (if both Windows/Desktop and Core Editions exist) or Open Terminal and then select the Profile you want to open by clicking on the chevron (down arrow)
+2. We can select the PowerShell Edition directly we want to open (if both Windows/Desktop and Core Editions exist) or Open Terminal and then select the Profile we want to open by clicking on the expand button (down arrow)
 
     ![Windows-Terminal-PowerShell][Windows-Terminal-PowerShell]
 
@@ -70,7 +70,7 @@ To retrieve PowerShell version
 1. [Open PowerShell](#how-to-open-powershell)
 3. Type the command `$PSVersionTable` and hit enter
 
-You will see output something similar to this below output for `Windows Powershell` and also you can see the PSEdition in the list is shown as `Desktop`.
+We will see output something similar to this below output for `Windows Powershell` and also we can see the PSEdition in the list is shown as `Desktop`.
 
 ``` powershell
  $PSVersionTable
@@ -87,7 +87,7 @@ PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
 ```
 
-You will see output something similar to this below output for `Powershell Core` and also you can see the PSEdition in the list is shown as `Core`.
+We will see output something similar to this below output for `Powershell Core` and also we can see the PSEdition in the list is shown as `Core`.
 
 ```powershell
  $PSVersionTable
