@@ -133,11 +133,8 @@ Example: `https://dev.azure.com/datosmic/datosmic-project1/_apis/wit/fields?api-
 > Its not mandatory that these need to be executed individually, these can be ran in single command by providing valid parameters to update everything at single execution/run.
 {: .prompt-tip }
 
-
-
 <!-- Reference Images -->
 [ADO-WI-Assign-Error]: /assets/img/2024-01-27-Update-ADO-WorkItems-CLI/ADO-WI-Assign-Error.png
-
 
 <!-- Reference Links -->
 [Security groups, service accounts, and permissions in Azure DevOps]: https://learn.microsoft.com/en-us/azure/devops/organizations/security/permissions?view=azure-devops
