@@ -62,6 +62,14 @@ We can navigate to Azure DevOps portal to see the work item created.
 
 ![ADO-WI2][ADO-WI2]
 
+### See Also 
+- [Onboarding to Azure DevOps][Onboarding to Azure DevOps]
+- [Getting Started with Azure DevOps using Az CLI][Getting Started with Azure DevOps using Az CLI]
+- [Update Work Items in Azure DevOps project using Az CLI][Update Work Items in Azure DevOps project using Az CLI]
+- [Add relation to Work Items in Azure DevOps project using Az CLI][Add relation to Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
+
+
 <!-- Reference Images -->
 [ADO-WI-Creation]: /assets/img/2024-01-27-Create-ADO-WorkItems-CLI/ADO-WI-Creation.png
 [ADO-WI]: /assets/img/2024-01-27-Create-ADO-WorkItems-CLI/ADO-WI.png
@@ -69,4 +77,8 @@ We can navigate to Azure DevOps portal to see the work item created.
 
 <!-- Reference Links -->
 [Onboarding to Azure DevOps]: /posts/Azure-DevOps-Onboard/
+[Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/
+[Update Work Items in Azure DevOps project using Az CLI]: /posts/Update-ADO-WorkItems-CLI/
+[Add relation to Work Items in Azure DevOps project using Az CLI]: /posts/Add-Relation-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/
 [Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/

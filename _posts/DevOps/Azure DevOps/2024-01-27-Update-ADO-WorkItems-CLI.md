@@ -129,9 +129,15 @@ GET https://dev.azure.com/{organization}/{project}/_apis/wit/fields?api-version=
 ```
 Example: `https://dev.azure.com/datosmic/datosmic-project1/_apis/wit/fields?api-version=5.0`
 
-
 > Its not mandatory that these need to be executed individually, these can be ran in single command by providing valid parameters to update everything at single execution/run.
 {: .prompt-tip }
+
+### See Also 
+- [Onboarding to Azure DevOps][Onboarding to Azure DevOps]
+- [Getting Started with Azure DevOps using Az CLI][Getting Started with Azure DevOps using Az CLI]
+- [Create Work Items in Azure DevOps project using Az CLI][Create Work Items in Azure DevOps project using Az CLI]
+- [Add relation to Work Items in Azure DevOps project using Az CLI][Add relation to Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
 
 <!-- Reference Images -->
 [ADO-WI-Assign-Error]: /assets/img/2024-01-27-Update-ADO-WorkItems-CLI/ADO-WI-Assign-Error.png
@@ -140,3 +146,8 @@ Example: `https://dev.azure.com/datosmic/datosmic-project1/_apis/wit/fields?api-
 [Security groups, service accounts, and permissions in Azure DevOps]: https://learn.microsoft.com/en-us/azure/devops/organizations/security/permissions?view=azure-devops
 [Add users or groups to a team or project]: https://learn.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops
 [View permissions for yourself or others]: https://learn.microsoft.com/en-us/azure/devops/organizations/security/view-permissions?view=azure-devops
+[Onboarding to Azure DevOps]: /posts/Azure-DevOps-Onboard/
+[Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/
+[Create Work Items in Azure DevOps project using Az CLI]: /posts/Create-ADO-WorkItems-CLI/
+[Add relation to Work Items in Azure DevOps project using Az CLI]: /posts/Add-Relation-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/

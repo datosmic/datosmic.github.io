@@ -436,6 +436,13 @@ You will see an output looks like:
 }
 ```
 
+### See Also 
+- [Onboarding to Azure DevOps][Onboarding to Azure DevOps]
+- [Create Work Items in Azure DevOps project using Az CLI][Create Work Items in Azure DevOps project using Az CLI]
+- [Update Work Items in Azure DevOps project using Az CLI][Update Work Items in Azure DevOps project using Az CLI]
+- [Add relation to Work Items in Azure DevOps project using Az CLI][Add relation to Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
+
 <!-- Reference Images -->
 [Azure-CLI-Installation]: /assets/img/2024-01-26-Azure-DevOps-CLI/Azure-CLI-Installation.png
 [Azure-CLI-Installation2]: /assets/img/2024-01-26-Azure-DevOps-CLI/Azure-CLI-Installation2.png
@@ -461,3 +468,8 @@ You will see an output looks like:
 [PAT token on StdIn]: https://learn.microsoft.com/en-us/azure/devops/cli/log-in-via-pat?view=azure-devops&tabs=windows#PipePATonStdIn
 [environment variable]: https://learn.microsoft.com/en-us/azure/devops/cli/log-in-via-pat?view=azure-devops&tabs=windows#EnvironmentVariable
 [az devops project list]: https://learn.microsoft.com/en-us/cli/azure/devops/project?view=azure-cli-latest#az-devops-project-list
+[Onboarding to Azure DevOps]: /posts/Azure-DevOps-Onboard/
+[Create Work Items in Azure DevOps project using Az CLI]: /posts/Create-ADO-WorkItems-CLI/
+[Update Work Items in Azure DevOps project using Az CLI]: /posts/Update-ADO-WorkItems-CLI/
+[Add relation to Work Items in Azure DevOps project using Az CLI]: /posts/Add-Relation-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/
