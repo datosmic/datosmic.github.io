@@ -56,6 +56,13 @@ To create a project in an existing organization:
 
     ![ADO-Project3][ADO-Project3]
 
+### See Also 
+- [Getting Started with Azure DevOps using Az CLI][Getting Started with Azure DevOps using Az CLI]
+- [Create Work Items in Azure DevOps project using Az CLI][Create Work Items in Azure DevOps project using Az CLI]
+- [Update Work Items in Azure DevOps project using Az CLI][Update Work Items in Azure DevOps project using Az CLI]
+- [Add relation to Work Items in Azure DevOps project using Az CLI][Add relation to Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
+
 <!-- Reference Images -->
 [Azure_DevOps_Start_free]: /assets/img/2024-01-26-Azure-DevOps/Azure_DevOps_Start_free.png
 [Azure-DevOps-Sign-in]: /assets/img/2024-01-26-Azure-DevOps/Azure-DevOps-Sign-in.png
@@ -72,4 +79,8 @@ To create a project in an existing organization:
 <!-- Reference Links -->
 [Create MS Account]: https://support.microsoft.com/en-us/account-billing/how-to-create-a-new-microsoft-account-a84675c3-3e9e-17cf-2911-3d56b15c0aaf#:~:text=How%20to%20Set%20Up%20a%20Microsoft%20Account%201,%2C%20and%20then%20follow%20the%20instructions.%20See%20More.
 [Create a GitHub Account]: https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
-
+[Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/
+[Create Work Items in Azure DevOps project using Az CLI]: /posts/Create-ADO-WorkItems-CLI/
+[Update Work Items in Azure DevOps project using Az CLI]: /posts/Update-ADO-WorkItems-CLI/
+[Add relation to Work Items in Azure DevOps project using Az CLI]: /posts/Add-Relation-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/

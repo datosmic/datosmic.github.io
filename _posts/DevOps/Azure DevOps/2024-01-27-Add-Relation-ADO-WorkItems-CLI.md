@@ -104,9 +104,20 @@ $WorkItemDetails = az boards work-item relation add `
 $WorkItemDetails
 ```
 
+### See Also 
+- [Onboarding to Azure DevOps][Onboarding to Azure DevOps]
+- [Getting Started with Azure DevOps using Az CLI][Getting Started with Azure DevOps using Az CLI]
+- [Create Work Items in Azure DevOps project using Az CLI][Create Work Items in Azure DevOps project using Az CLI]
+- [Update Work Items in Azure DevOps project using Az CLI][Update Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
+
 <!-- Reference Images -->
 [Add-Relation-ADO-WorkItems-CLI]: /assets/img/2024-01-27-Add-Relation-ADO-WorkItems-CLI/Add-Relation-ADO-WorkItems-CLI.png
 
 <!-- Reference Links -->
+[Onboarding to Azure DevOps]: /posts/Azure-DevOps-Onboard/
+[Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/
 [Create Work Items in Azure DevOps project using Az CLI]: /posts/Create-ADO-WorkItems-CLI/
+[Update Work Items in Azure DevOps project using Az CLI]: /posts/Update-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/
 
