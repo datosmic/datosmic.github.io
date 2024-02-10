@@ -98,4 +98,7 @@ Releasing objects after completion of sending mail. This is like closing connect
 [System.Runtime.Interopservices.Marshal]::ReleaseComObject($outlook) | Out-Null
 ```
 
+Complete code for the automation can be found at [Send-OutlookMail.ps1][Send-OutlookMail.ps1] in my GitHub repository.
 
+<!-- Reference Links -->
+[Send-OutlookMail.ps1]: https://github.com/scvslsravikiran/Blogs/blob/d1c1cb87ac330da7d8486ab0efb4285ea325a601/Send-OutlookMail.ps1
