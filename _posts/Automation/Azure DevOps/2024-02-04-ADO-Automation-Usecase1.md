@@ -7,7 +7,7 @@ tags: [Automation, Azure DevOps, DevOps, Azure CLI, PowerShell, Project/Usecase]
 
 ## Use-case / Scenario
 
-`Patti Fernandez` is a President of DatOsmic organization and she wants to track the monthly/weekly wise tasks/efforts of her team members. For this, she wants to create a monthly User Story for each director under her and also wants to create a task to each team member under each directors' organization for every week.
+`Patti Fernandez` is a President of **DatOsmic** organization and she wants to track the monthly/weekly wise tasks/efforts of her team members. For this, she wants to create a monthly User Story for each director under her and also wants to create a task to each team member under each directors' organization for every week.
 
 **Miriam Graham Organiation**  
 
@@ -167,6 +167,13 @@ foreach ($TeamName in $TeamMapping.Keys) {
 
 Complete code for the automation can be found at [New-MonthlyADOUserStories.ps1][New-MonthlyADOUserStories.ps1] in my GitHub repository.
 
+### See Also 
+- [Onboarding to Azure DevOps][Onboarding to Azure DevOps]
+- [Getting Started with Azure DevOps using Az CLI][Getting Started with Azure DevOps using Az CLI]
+- [Create Work Items in Azure DevOps project using Az CLI][Create Work Items in Azure DevOps project using Az CLI]
+- [Update Work Items in Azure DevOps project using Az CLI][Update Work Items in Azure DevOps project using Az CLI]
+- [Add relation to Work Items in Azure DevOps project using Az CLI][Add relation to Work Items in Azure DevOps project using Az CLI]
+- [Automate creation of Work Items in Azure DevOps][Automate creation of Work Items in Azure DevOps]
 
 <!-- Reference Images -->
 [Miriam-Graham-Org]: /assets/img/2024-02-04-ADO-Automation-UseCase1/Miriam-Graham-Org.png
@@ -176,5 +183,11 @@ Complete code for the automation can be found at [New-MonthlyADOUserStories.ps1]
 
 <!-- Reference Links -->
 [Get-Alias]: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-alias?view=powershell-7.4
-[Automate creation of Work Items in Azure DevOps]: ../Create-WorkItems-Automation/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/
 [New-MonthlyADOUserStories.ps1]: https://github.com/scvslsravikiran/Blogs/blob/295c053e3a779ed1b9068d70f57b1923f0712e73/New-MonthlyADOUserStories.ps1
+[Onboarding to Azure DevOps]: /posts/Azure-DevOps-Onboard/
+[Getting Started with Azure DevOps using Az CLI]: /posts/Azure-DevOps-CLI/
+[Create Work Items in Azure DevOps project using Az CLI]: /posts/Create-ADO-WorkItems-CLI/
+[Update Work Items in Azure DevOps project using Az CLI]: /posts/Update-ADO-WorkItems-CLI/
+[Add relation to Work Items in Azure DevOps project using Az CLI]: /posts/Add-Relation-ADO-WorkItems-CLI/
+[Automate creation of Work Items in Azure DevOps]: /posts/Create-WorkItems-Automation/
